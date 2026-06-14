@@ -265,5 +265,62 @@
 "optionD": "Use the horn frequently",
 "correctAnswer": "C",
 "difficulty": "MEDIUM"
+},
+  {
+"id": 24,
+"category": "CATEGORY C",
+"question": "What should you do if an ambulance with sirens is approaching?",
+"image": "images/q24.jpg",
+"optionA": "Continue driving normally",
+"optionB": "Move to the side and allow it to pass",
+"optionC": "Race ahead of the ambulance",
+"correctAnswer": "B",
+"difficulty": "MEDIUM"
+},
+{
+"id": 25,
+"category": "CATEGORY C",
+"question": "What is the minimum safe action before reversing your vehicle?",
+"image": "images/q25.jpg",
+"optionA": "Check mirrors and look behind",
+"optionB": "Accelerate immediately",
+"optionC": "Sound the horn continuously",
+"optionD": "Turn off the engine",
+"correctAnswer": "A",
+"difficulty": "EASY"
+},
+{
+"id": 26,
+"category": "CATEGORY C",
+"question": "Can you stop your vehicle in the middle of a highway unless it is an emergency?",
+"image": "images/q26.jpg",
+"optionA": "Yes",
+"optionB": "No",
+"correctAnswer": "B",
+"difficulty": "MEDIUM"
+},
+{
+"id": 27,
+"category": "CATEGORY C",
+"question": "What should you do if you miss your exit on a motorway?",
+"image": "images/q27.jpg",
+"optionA": "Reverse to the exit",
+"optionB": "Make a U-turn immediately",
+"optionC": "Continue to the next exit",
+"optionD": "Stop and wait for traffic to clear",
+"correctAnswer": "C",
+"difficulty": "HARD"
+},
+{
+"id": 28,
+"category": "CATEGORY C",
+"question": "Why is maintaining a safe following distance important?",
+"image": "images/q28.jpg",
+"optionA": "It gives more time to react to hazards",
+"optionB": "It improves radio reception",
+"optionC": "It reduces the need for indicators",
+"optionD": "It increases engine power",
+"correctAnswer": "A",
+"difficulty": "MEDIUM"
 }
 ]
