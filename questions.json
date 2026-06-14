@@ -149,5 +149,61 @@
 "optionD": "",
 "correctAnswer": "C",
 "difficulty": "MEDIUM"
+},
+  {
+"id": 14,
+"category": "CATEGORY B",
+"question": "What should you do when you see a stop sign?",
+"image": "images/q14.jpg",
+"optionA": "Slow down and continue",
+"optionB": "Stop completely and proceed when safe",
+"optionC": "Ignore the sign if the road is clear",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 15,
+"category": "CATEGORY B",
+"question": "What does a flashing yellow traffic light mean?",
+"image": "images/q15.jpg",
+"optionA": "Stop immediately",
+"optionB": "Traffic signal is out of order",
+"optionC": "Proceed with caution",
+"optionD": "Road closed ahead",
+"correctAnswer": "C",
+"difficulty": "MEDIUM"
+},
+{
+"id": 16,
+"category": "CATEGORY B",
+"question": "Are you allowed to park on a pedestrian crossing?",
+"image": "images/q16.jpg",
+"optionA": "Yes",
+"optionB": "No",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 17,
+"category": "CATEGORY B",
+"question": "What should you check before starting your vehicle?",
+"image": "images/q17.jpg",
+"optionA": "Fuel level",
+"optionB": "Mirrors and seat position",
+"optionC": "Warning lights",
+"optionD": "All of the above",
+"correctAnswer": "D",
+"difficulty": "MEDIUM"
+},
+{
+"id": 18,
+"category": "CATEGORY B",
+"question": "When driving in heavy rain, what should you do?",
+"image": "images/q18.jpg",
+"optionA": "Increase speed to reach your destination faster",
+"optionB": "Turn off headlights",
+"optionC": "Reduce speed and maintain a safe distance",
+"correctAnswer": "C",
+"difficulty": "MEDIUM"
 }
 ]
