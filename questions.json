@@ -85,6 +85,8 @@
 "image": "images/q2.jpg",
 "optionA": "Yes",
 "optionB": "No",
+"optionC": "",
+"optionD": "",
 "correctAnswer": "B",
 "difficulty": "EASY"
 },
@@ -108,6 +110,7 @@
 "optionA": "Only at night",
 "optionB": "During poor visibility and at night",
 "optionC": "Only in heavy rain",
+"optionD": "",
 "correctAnswer": "B",
 "difficulty": "EASY"
 },
@@ -130,6 +133,8 @@
 "image": "images/q6.jpg",
 "optionA": "Yes",
 "optionB": "No",
+"optionC": "",
+"optionD": "",
 "correctAnswer": "A",
 "difficulty": "EASY"
 },
@@ -141,6 +146,7 @@
 "optionA": "Ignore it and continue driving",
 "optionB": "Speed up",
 "optionC": "Move aside and allow it to pass",
+"optionD": "",
 "correctAnswer": "C",
 "difficulty": "MEDIUM"
 }
