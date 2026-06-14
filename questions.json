@@ -65,5 +65,84 @@
 "optionC": "",
 "correctAnswer": "A",
 "difficulty": "EASY"
-}
+},
+  {
+"id": 7,
+"category": "CATEGORY A",
+"question": "What should you do when approaching a red traffic light?",
+"image": "images/q1.jpg",
+"optionA": "Slow down and proceed carefully.",
+"optionB": "Stop and wait until the light turns green.",
+"optionC": "Speed up to cross quickly.",
+"optionD": "Not up to cross Gently.",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 8,
+"category": "CATEGORY A",
+"question": "Is it legal to use a mobile phone while driving without a hands-free device?",
+"image": "images/q2.jpg",
+"optionA": "Yes",
+"optionB": "No",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 9,
+"category": "CATEGORY A",
+"question": "What does a triangular road sign usually indicate?",
+"image": "images/q3.jpg",
+"optionA": "Warning",
+"optionB": "Mandatory instruction",
+"optionC": "Parking area",
+"optionD": "Information point",
+"correctAnswer": "A",
+"difficulty": "MEDIUM"
+},
+{
+"id": 10,
+"category": "CATEGORY A",
+"question": "When should you use your vehicle's headlights?",
+"image": "images/q4.jpg",
+"optionA": "Only at night",
+"optionB": "During poor visibility and at night",
+"optionC": "Only in heavy rain",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 11,
+"category": "CATEGORY A",
+"question": "What should you do before changing lanes?",
+"image": "images/q5.jpg",
+"optionA": "Check mirrors and blind spots",
+"optionB": "Sound the horn continuously",
+"optionC": "Increase speed immediately",
+"optionD": "Turn off indicators",
+"correctAnswer": "A",
+"difficulty": "MEDIUM"
+},
+{
+"id": 12,
+"category": "CATEGORY A",
+"question": "Are seat belts required for the driver and passengers?",
+"image": "images/q6.jpg",
+"optionA": "Yes",
+"optionB": "No",
+"correctAnswer": "A",
+"difficulty": "EASY"
+},
+{
+"id": 13,
+"category": "CATEGORY A",
+"question": "What is the safest action when an emergency vehicle with flashing lights approaches from behind?",
+"image": "images/q7.jpg",
+"optionA": "Ignore it and continue driving",
+"optionB": "Speed up",
+"optionC": "Move aside and allow it to pass",
+"correctAnswer": "C",
+"difficulty": "MEDIUM"
+},
+
 ]
