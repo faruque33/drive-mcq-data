@@ -205,5 +205,61 @@
 "optionC": "Reduce speed and maintain a safe distance",
 "correctAnswer": "C",
 "difficulty": "MEDIUM"
+},
+  {
+"id": 19,
+"category": "CATEGORY C",
+"question": "What should you do if your vehicle starts to skid on a wet road?",
+"image": "images/q19.jpg",
+"optionA": "Brake hard immediately",
+"optionB": "Steer gently in the direction of the skid",
+"optionC": "Accelerate quickly",
+"correctAnswer": "B",
+"difficulty": "HARD"
+},
+{
+"id": 20,
+"category": "CATEGORY C",
+"question": "What is the purpose of the vehicle's anti-lock braking system (ABS)?",
+"image": "images/q20.jpg",
+"optionA": "To increase fuel efficiency",
+"optionB": "To prevent wheel lock during braking",
+"optionC": "To improve engine performance",
+"optionD": "To reduce tire pressure",
+"correctAnswer": "B",
+"difficulty": "HARD"
+},
+{
+"id": 21,
+"category": "CATEGORY C",
+"question": "When overtaking another vehicle, what should you do first?",
+"image": "images/q21.jpg",
+"optionA": "Check mirrors and ensure the road is clear",
+"optionB": "Sound the horn continuously",
+"optionC": "Drive as close as possible to the vehicle ahead",
+"correctAnswer": "A",
+"difficulty": "MEDIUM"
+},
+{
+"id": 22,
+"category": "CATEGORY C",
+"question": "Are you allowed to drive if you feel extremely tired or drowsy?",
+"image": "images/q22.jpg",
+"optionA": "Yes",
+"optionB": "No",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 23,
+"category": "CATEGORY C",
+"question": "What should you do when approaching a school zone?",
+"image": "images/q23.jpg",
+"optionA": "Increase speed to pass quickly",
+"optionB": "Ignore pedestrians",
+"optionC": "Reduce speed and watch for children",
+"optionD": "Use the horn frequently",
+"correctAnswer": "C",
+"difficulty": "MEDIUM"
 }
 ]
