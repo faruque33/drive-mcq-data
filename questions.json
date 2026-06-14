@@ -180,6 +180,8 @@
 "image": "images/q16.jpg",
 "optionA": "Yes",
 "optionB": "No",
+"optionC": "",
+"optionD": "",
 "correctAnswer": "B",
 "difficulty": "EASY"
 },
@@ -247,6 +249,8 @@
 "image": "images/q22.jpg",
 "optionA": "Yes",
 "optionB": "No",
+"optionC": "",
+"optionD": "",
 "correctAnswer": "B",
 "difficulty": "EASY"
 },
