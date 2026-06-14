@@ -1,0 +1,69 @@
+[
+{
+"id": 1,
+"category": "CATEGORY A",
+"question": "What should you do when approaching a red traffic light?",
+"image": "images/q1.jpg",
+"optionA": "Slow down and proceed carefully.",
+"optionB": "Stop and wait until the light turns green.",
+"optionC": "Speed up to cross quickly.",
+"optionD": "Not up to cross Gently.",
+"correctAnswer": "B",
+"difficulty": "EASY"
+},
+{
+"id": 2,
+"category": "CATEGORY A",
+"question": "Which document must a driver carry while driving?",
+"image": "images/q2.jpg",
+"optionA": "Driving Licence.",
+"optionB": "Passport.",
+"optionC": "",
+"correctAnswer": "A",
+"difficulty": "EASY"
+},
+{
+"id": 3,
+"category": "CATEGORY A",
+"question": "What is the safest way to overtake another vehicle?",
+"image": "images/q3.jpg",
+"optionA": "Overtake from the left when safe.",
+"optionB": "Overtake from the right without signaling.",
+"optionC": "Use the horn continuously.",
+"correctAnswer": "A",
+"difficulty": "INTERMEDIATE"
+},
+{
+"id": 4,
+"category": "CATEGORY B",
+"question": "What should you do when you hear an emergency vehicle siren?",
+"image": "images/q4.jpg",
+"optionA": "Ignore it and continue driving.",
+"optionB": "Increase your speed.",
+"optionC": "Give way and move safely to the side.",
+"correctAnswer": "C",
+"difficulty": "INTERMEDIATE"
+},
+{
+"id": 5,
+"category": "CATEGORY B",
+"question": "Before changing lanes, a driver should:",
+"image": "images/q5.jpg",
+"optionA": "Check mirrors and blind spots.",
+"optionB": "Signal the intention.",
+"optionC": "Change lanes immediately.",
+"correctAnswer": "A",
+"difficulty": "INTERMEDIATE"
+},
+{
+"id": 6,
+"category": "CATEGORY C",
+"question": "Is wearing a seat belt important while driving?",
+"image": "images/q6.jpg",
+"optionA": "Yes.",
+"optionB": "No.",
+"optionC": "",
+"correctAnswer": "A",
+"difficulty": "EASY"
+}
+]
