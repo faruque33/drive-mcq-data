@@ -359,18 +359,6 @@
   "correctAnswer": "B",
   "difficulty": "EASY"
 },
-  {
-  "id": 30,
-  "category": "CATEGORY B",
-  "question": "É proibido ultrapassar:",
-  "image": "images/q31.jpg",
-  "optionA": "Em lombas ou cruzamentos sem visibilidade.",
-  "optionB": "Quando o veículo é lento.",
-  "optionC": "Em autoestradas.",
-  "optionD": "",
-  "correctAnswer": "A",
-  "difficulty": "EASY"
-},
 {
   "id": 31,
   "category": "CATEGORY B",
@@ -715,6 +703,18 @@
   "optionA": "Ao aproximar-se da saída.",
   "optionB": "Não é necessário sinalizar.",
   "optionC": "Apenas se houver trânsito intenso.",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+  {
+  "id": 30,
+  "category": "CATEGORY B",
+  "question": "É proibido ultrapassar:",
+  "image": "images/q31.jpg",
+  "optionA": "Em lombas ou cruzamentos sem visibilidade.",
+  "optionB": "Quando o veículo é lento.",
+  "optionC": "Em autoestradas.",
   "optionD": "",
   "correctAnswer": "A",
   "difficulty": "EASY"
