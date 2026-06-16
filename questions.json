@@ -708,7 +708,7 @@
   "difficulty": "EASY"
 },
   {
-  "id": 30,
+  "id": 60,
   "category": "CATEGORY B",
   "question": "É proibido ultrapassar:",
   "image": "images/q31.jpg",
@@ -718,5 +718,197 @@
   "optionD": "",
   "correctAnswer": "A",
   "difficulty": "EASY"
-}
-]
+},
+  ```json
+{
+  "id": 61,
+  "category": "CATEGORY C",
+  "question": "Em caso de acidente com o seu veículo, deve:",
+  "image": "images/q61.jpg",
+  "optionA": "Sair rapidamente do veículo sem avisar outros condutores.",
+  "optionB": "Garantir a segurança no local, sinalizar e ligar para o 112.",
+  "optionC": "Resolver a situação sozinho, sem pedir ajuda.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 62,
+  "category": "CATEGORY C",
+  "question": "Em caso de queimadura deve:",
+  "image": "images/q62.jpg",
+  "optionA": "Lavar a zona afetada com água quente.",
+  "optionB": "Furar as bolhas existentes.",
+  "optionC": "Evitar tocar diretamente na área queimada.",
+  "optionD": "",
+  "correctAnswer": "C",
+  "difficulty": "EASY"
+},
+{
+  "id": 63,
+  "category": "CATEGORY C",
+  "question": "O que deve fazer ao conduzir em zonas de vento forte?",
+  "image": "images/q63.jpg",
+  "optionA": "Virar o volante no sentido contrário ao do vento.",
+  "optionB": "Aumentar a velocidade para atravessar a zona rapidamente.",
+  "optionC": "Reduzir a velocidade e manter firme o controlo do volante.",
+  "optionD": "",
+  "correctAnswer": "C",
+  "difficulty": "EASY"
+},
+{
+  "id": 64,
+  "category": "CATEGORY C",
+  "question": "O que deve fazer para diminuir as emissões de poluentes?",
+  "image": "images/q64.jpg",
+  "optionA": "Conduzir com o motor a altas rotações.",
+  "optionB": "Fazer a manutenção regular do veículo.",
+  "optionC": "Andar sempre com o ar condicionado ligado.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 65,
+  "category": "CATEGORY C",
+  "question": "O que deve fazer se houver incêndio no motor do veículo?",
+  "image": "images/q65.jpg",
+  "optionA": "Abrir o capot rapidamente e apagar as chamas com água.",
+  "optionB": "Usar o extintor e apontar à base das chamas.",
+  "optionC": "Esperar que o fogo se apague.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 66,
+  "category": "CATEGORY C",
+  "question": "Um motorista de TVDE pode conduzir com uma taxa de alcoolemia de 0,2 g/l.",
+  "image": "images/q66.jpg",
+  "optionA": "Sim, se estiver em boas condições físicas.",
+  "optionB": "Não.",
+  "optionC": "Sim, porque é um valor permitido.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 67,
+  "category": "CATEGORY C",
+  "question": "Para mudar de via de circulação dentro de uma rotunda, o motorista deve:",
+  "image": "images/q67.jpg",
+  "optionA": "Mudar de via sem sinalizar.",
+  "optionB": "Sinalizar e garantir que a manobra é segura.",
+  "optionC": "Mudar rapidamente para sair mais depressa.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 68,
+  "category": "CATEGORY C",
+  "question": "O que é a comunicação verbal?",
+  "image": "images/q68.jpg",
+  "optionA": "Usar gestos e sinais para comunicar.",
+  "optionB": "Falar ou escrever para transmitir uma mensagem.",
+  "optionC": "Ficar em silêncio.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 69,
+  "category": "CATEGORY C",
+  "question": "Os serviços de TVDE podem ser pagos em dinheiro ou cartão de crédito.",
+  "image": "images/q69.jpg",
+  "optionA": "Verdadeiro.",
+  "optionB": "Falso.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 70,
+  "category": "CATEGORY C",
+  "question": "O que deve fazer em condições de nevoeiro?",
+  "image": "images/q70.jpg",
+  "optionA": "Usar as luzes de nevoeiro e ajustar a velocidade.",
+  "optionB": "Aumentar a velocidade para sair da área com nevoeiro.",
+  "optionC": "Manter as luzes desligadas para economizar energia.",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 71,
+  "category": "CATEGORY C",
+  "question": "Táxi e TVDE em ultrapassagem devem manter uma distância mínima lateral.",
+  "image": "images/q71.jpg",
+  "optionA": "Sim, de 1,5 metros.",
+  "optionB": "Sim, de 1 metro.",
+  "optionC": "Não.",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 72,
+  "category": "CATEGORY C",
+  "question": "Uma condução defensiva é:",
+  "image": "images/q72.jpg",
+  "optionA": "Estar atento aos outros condutores, antecipando situações de risco.",
+  "optionB": "Conduzir sempre a alta velocidade.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 73,
+  "category": "CATEGORY C",
+  "question": "Ao conduzir à noite, o motorista deve:",
+  "image": "images/q73.jpg",
+  "optionA": "Reduzir a velocidade apenas nas curvas.",
+  "optionB": "Manter os máximos ligados em todas as situações.",
+  "optionC": "Ver e ser visto, usando corretamente as luzes.",
+  "optionD": "",
+  "correctAnswer": "C",
+  "difficulty": "EASY"
+},
+{
+  "id": 74,
+  "category": "CATEGORY C",
+  "question": "Como agir com um passageiro impaciente ou agressivo?",
+  "image": "images/q74.jpg",
+  "optionA": "Responder com a mesma agressividade.",
+  "optionB": "Manter a calma, ser cordial e evitar o conflito.",
+  "optionC": "Ignorar o passageiro e continuar a viagem.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 75,
+  "category": "CATEGORY C",
+  "question": "No primeiro contacto com uma vítima de um acidente, o que deve fazer primeiro?",
+  "image": "images/q75.jpg",
+  "optionA": "Verificar se respira e se tem pulsação.",
+  "optionB": "Retirar a vítima do veículo imediatamente.",
+  "optionC": "Procurar por ferimentos visíveis.",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 76,
+  "category": "CATEGORY C",
+  "question": "O motorista deve sinalizar a saída de uma rotunda:",
+  "image": "images/q76.jpg",
+  "optionA": "Ao aproximar-se da saída.",
+  "optionB": "Não é necessário sinalizar.",
+  "optionC": "Apenas se houver trânsito intenso.",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+}]
