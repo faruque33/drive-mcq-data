@@ -1006,5 +1006,41 @@
     "optionD": "",
     "correctAnswer": "A",
     "difficulty": "EASY"
+  },
+   {
+    "id": 85,
+    "category": "CATEGORY C",
+    "question": "O sinal indica:",
+    "image": "images/q181.jpg",
+    "optionA": "Passagem de peões.",
+    "optionB": "A existência de um túnel.",
+    "optionC": "Entrada num parque de estacionamento.",
+    "optionD": "",
+    "correctAnswer": "A",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 86,
+    "category": "CATEGORY C",
+    "question": "Para se tornar motociclo ligeiro, deve ter carta de condução da categoria B há mais de:",
+    "image": "images/q183.jpg",
+    "optionA": "1 ano.",
+    "optionB": "2 anos.",
+    "optionC": "3 anos.",
+    "optionD": "",
+    "correctAnswer": "C",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 86,
+    "category": "CATEGORY C",
+    "question": "Qual a velocidade máxima permitida a um automóvel ligeiro dentro de uma localidade?",
+    "image": "images/q195.jpg",
+    "optionA": "50 km/h",
+    "optionB": "60 km/h",
+    "optionC": "90 km/h",
+    "optionD": "",
+    "correctAnswer": "A",
+    "difficulty": "EASY"
   }
 ]
