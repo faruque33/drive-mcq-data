@@ -80,7 +80,7 @@
     "optionB": "Não.",
     "optionC": "",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "difficulty": "EASY"
   },
   {
@@ -176,7 +176,7 @@
     "optionB": "Não.",
     "optionC": "",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "difficulty": "EASY"
   },
   {
@@ -224,7 +224,7 @@
     "optionB": "Retangulares com fundo verde.",
     "optionC": "Triangulares com borda vermelha.",
     "optionD": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "difficulty": "EASY"
   },
   {
@@ -236,7 +236,7 @@
     "optionB": "Pelo menos 50 metros.",
     "optionC": "Pelo menos 30 metros.",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "difficulty": "EASY"
   },
   {
@@ -356,7 +356,7 @@
     "optionB": "Estacionamento proibido.",
     "optionC": "Apenas paragem permitida.",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "difficulty": "EASY"
   },
   {
@@ -596,7 +596,7 @@
     "optionB": "Ignora os pedidos dos passageiros.",
     "optionC": "É educado, respeita os passageiros e atende às suas necessidades.",
     "optionD": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "difficulty": "EASY"
   },
   {
@@ -620,7 +620,7 @@
     "optionB": "Obrigações a cumprir.",
     "optionC": "Restrições ou limites.",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "difficulty": "EASY"
   },
  {
@@ -668,7 +668,7 @@
 "optionB": "Falso.",
 "optionC": "",
 "optionD": "",
-"correctAnswer": "B",
+"correctAnswer": "A",
 "difficulty": "EASY"
 },
  {
@@ -788,7 +788,7 @@
     "optionB": "60 km/h",
     "optionC": "90 km/h",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "difficulty": "EASY"
   },
   {
@@ -836,7 +836,7 @@
     "optionB": "2 anos após a matrícula e, depois, de dois em dois anos.",
     "optionC": "No prazo estipulado pelo IMT.",
     "optionD": "",
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "difficulty": "EASY"
   },
   {
@@ -872,7 +872,7 @@
     "optionB": "Obrigações a cumprir.",
     "optionC": "Restrições ou limites.",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "difficulty": "EASY"
   },
   {
@@ -1016,7 +1016,7 @@
     "optionB": "A existência de um túnel.",
     "optionC": "Entrada num parque de estacionamento.",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "difficulty": "EASY"
   },
   {
